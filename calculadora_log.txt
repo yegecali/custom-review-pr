@@ -1,0 +1,4 @@
+Calculadora iniciada: Wed Nov 12 21:35:07 PET 2025
+SUMA: 2.0 + 3.0 = 5.0
+Calculadora cerrada: Wed Nov 12 21:35:18 PET 2025
+Calculadora iniciada: Wed Nov 12 21:35:55 PET 2025
